@@ -1,1 +1,1 @@
-# SP-QM_ML-2025
+# Estimating the energy of a Quantum Mechanical particle using Machine Learning
